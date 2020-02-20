@@ -1,5 +1,3 @@
-##### Multichannel Speech Enhancement by Raw Waveform-mapping using Fully Convolutional Networks
-
 #### Inner-Ear Microphones-SE Task
 
 Source         | Utterance 1  |  Utterance 2  |
