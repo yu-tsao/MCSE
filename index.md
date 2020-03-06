@@ -20,4 +20,5 @@ Input    | <audio src="https://clalanliu.github.io/MCME_demo/wav_files/DMSE/271.
 Enhanced (DDAE)  | <audio src="https://clalanliu.github.io/MCME_demo/wav_files/DMSE/DDAE.wav" controls="" preload=""></audio> |  <audio src="https://clalanliu.github.io/MCME_demo/wav_files/DMSE2/DDAE.wav" controls="" preload=""></audio>| 
 Enhanced (rSDFCN)  | <audio src="https://clalanliu.github.io/MCME_demo/wav_files/DMSE/rSDFCN.wav" controls="" preload=""></audio> | <audio src="https://clalanliu.github.io/MCME_demo/wav_files/DMSE2/rSDFCN.wav" controls="" preload=""></audio> | 
 
-https://arxiv.org/abs/1909.11909
+
+[Multichannel Speech Enhancement by Raw Waveform-mapping using Fully Convolutional Networks](https://arxiv.org/abs/1909.11909)
